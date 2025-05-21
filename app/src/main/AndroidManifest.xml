@@ -103,11 +103,7 @@
             android:exported="false"
             android:launchMode="standard"
             android:screenOrientation="portrait" />
-        <activity
-            android:name=".spalsh.FrontActivity"
-            android:exported="false"
-            android:launchMode="standard"
-            android:screenOrientation="portrait" />
+
         <activity
             android:name=".spalsh.GenderActivity"
             android:exported="false"
